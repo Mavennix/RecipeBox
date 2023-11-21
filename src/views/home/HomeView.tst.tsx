@@ -13,13 +13,12 @@ const mockApiResponse = [
     id: 1,
     name: 'Recipe 1',
     allergens: ['Crustaceans', 'Fish'],
-    // Add other properties based on your actual data structure
   },
   {
     id: 2,
     name: 'Recipe 2',
     allergens: ['Eggs'],
-    // Add other properties based on your actual data structure
+
   },
 ];
 

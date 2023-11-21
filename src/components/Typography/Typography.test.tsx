@@ -1,6 +1,6 @@
 import React from 'react';
 import { render } from '@testing-library/react-native';
-import Typography from './Typography'; // Adjust the import path based on your project structure
+import Typography from './Typography';
 
 describe('Typography component', () => {
   it('renders correctly with default props', () => {
